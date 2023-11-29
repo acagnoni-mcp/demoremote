@@ -1,1 +1,2 @@
 Modifica 7 fatta parallelamente a branch Feature
+aggiunta 29-nov-2023
